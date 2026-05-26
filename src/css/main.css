@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+/*! HTML5 Boilerplate v4.3.0 | MIT License */
 
 html {
   color: #fff;
@@ -148,10 +148,6 @@ footer a:active {
   color: #fff;
   filter: drop-shadow( 0 0 1rem #cc9aff);
 }
-
-/* ==========================================================================
-   Media Queries
-   ========================================================================== */
 
 @media only screen and (min-width: 480px) {
   footer a {
